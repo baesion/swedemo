@@ -3,3 +3,5 @@ hi everyone
 고쳤어요!
 
 new br1에서 고쳤어요!
+
+fork 해와서 고치는 중입니다. baesion2에서 작업중
